@@ -1,0 +1,2 @@
+cls
+python RGB_Generator_App.py
