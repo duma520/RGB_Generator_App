@@ -1,11 +1,8 @@
 # RGB_Generator_App （见源码内 VERSION 常量）
 
-> **一句话**：RGB_Generator_App —— 一个用 Python 写的 Windows 桌面程序，
+> **一句话**：多色彩空间数值生成器 v3.0：在 RGB / HSL / HSV / CMYK / YUV / Lab / HEX 之间互相换算并批量生成数值，结果可导出 CSV。做调色、写样式变量、给程序批量造测试颜色时用。tkinter 编写。
+>
 > 主程序为 `RGB_Generator_App - 1.0 纯RGB.py`，界面技术栈 tkinter（Python 自带 GUI，无需额外安装）。
->
-> **适合谁**：想直接用现成工具、不想自己写代码的 Windows 用户。
->
-> **解决什么问题**：把这件事做成开箱即用的程序 —— 下载解压、装上依赖、双击就能跑。
 
 ---
 
